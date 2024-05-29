@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="KubernetesApiProvider"><![CDATA[{}]]></component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id>Angular</id>
+          </State>
+          <State>
+            <id>ES2015 迁移协助JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>JVM 语言</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 21Java 语言级别迁移帮助Java</id>
+          </State>
+          <State>
+            <id>Java 7Java 语言级别迁移帮助Java</id>
+          </State>
+          <State>
+            <id>Java 语言级别迁移帮助Java</id>
+          </State>
+          <State>
+            <id>JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>MutinyReactive Streams</id>
+          </State>
+          <State>
+            <id>RESTful Web 服务(JAX-RS)</id>
+          </State>
+          <State>
+            <id>Reactive Streams</id>
+          </State>
+          <State>
+            <id>Vue</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+          <State>
+            <id>冗余结构Kotlin</id>
+          </State>
+          <State>
+            <id>可能的 bugKotlin</id>
+          </State>
+          <State>
+            <id>封装Java</id>
+          </State>
+          <State>
+            <id>常规JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>并发注解问题Java</id>
+          </State>
+          <State>
+            <id>日志记录JVM 语言</id>
+          </State>
+          <State>
+            <id>样式问题Kotlin</id>
+          </State>
+          <State>
+            <id>用户定义</id>
+          </State>
+          <State>
+            <id>线程问题Java</id>
+          </State>
+          <State>
+            <id>详细或冗余的代码结构Java</id>
+          </State>
+          <State>
+            <id>通用Reactive Streams</id>
+          </State>
+          <State>
+            <id>错误处理Java</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="arthas.idea.plugin">
+    <option name="selectProjectName" value="" />
+    <option name="redisAddress" value="" />
+    <option name="redisAuth" value="" />
+    <option name="redisCacheKey" value="" />
+  </component>
+</project>
