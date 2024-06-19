@@ -35,7 +35,11 @@
             <artifactId>mybatis-plus-annotation</artifactId>
             <version>3.5.6</version>
         </dependency>
-
+        <dependency>
+            <groupId>com.baomidou</groupId>
+            <artifactId>mybatis-plus-core</artifactId>
+            <version>3.5.6</version>
+        </dependency>
         <dependency>
             <groupId>com.taosdata.jdbc</groupId>
             <artifactId>taos-jdbcdriver</artifactId>
